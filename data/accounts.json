@@ -1,0 +1,16 @@
+[
+    {
+        "username": "test_weak",
+        "algorithm": "PBKDF2-HMAC-SHA256",
+        "iterations": 100000,
+        "salt": "3315c3a9c394ec6ed01bfccd1a9d816e",
+        "hash": "3297a8beccbcacdf8d90350ebb365c19c296a4dcd6497395c5e1373cec4123bb"
+    },
+    {
+        "username": "test_strong",
+        "algorithm": "PBKDF2-HMAC-SHA256",
+        "iterations": 100000,
+        "salt": "fbf66217746ef69fb17ce58496e2fcdd",
+        "hash": "3f9223fde7e3f3691ee8fe643c5b373a9c638b2f6a8f9ba101a79960f7d271aa"
+    }
+]

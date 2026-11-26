@@ -1,0 +1,12 @@
+[
+    {
+        "username": "test_weak",
+        "algorithm": "PBKDF2-HMAC-SHA256",
+        "status": "WEAK PASSWORD DETECTED"
+    },
+    {
+        "username": "test_strong",
+        "algorithm": "PBKDF2-HMAC-SHA256",
+        "status": "NO WORDLIST MATCH"
+    }
+]
